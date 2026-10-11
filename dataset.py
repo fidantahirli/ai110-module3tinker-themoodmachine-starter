@@ -50,6 +50,14 @@ SAMPLE_POSTS = [
     "This is fine",
     "So excited for the weekend",
     "I am not happy about this",
+    "Lowkey stressed but kind of proud of myself",
+    "I absolutely love getting stuck in traffic",
+    "No cap, this is the worst day ever",
+    "I love the way the sun sets over the ocean, but I hate how cold it gets at night",
+    "Just got a promotion at work! Feeling on top of the world",
+    "Feeling grateful for the small things in life",
+    "Having a great day!",
+    "This is so frustrating"
 ]
 
 # Human labels for each post above.
@@ -64,7 +72,16 @@ TRUE_LABELS = [
     "mixed",     # "Feeling tired but kind of hopeful"
     "neutral",   # "This is fine"
     "positive",  # "So excited for the weekend"
-    "negative",  # "I am not happy about this"
+    "negative",  # "I am not happy about this",
+    "mixed",     # "Lowkey stressed but kind of proud of myself",
+    "sarcastic", # "I absolutely love getting stuck in traffic",
+    "negative",  # "No cap, this is the worst day ever",
+    "mixed",     # "I love the way the sun sets over the ocean, but I hate how cold it gets at night",
+    "positive",  # "Just got a promotion at work! Feeling on top of the world",
+    "positive",  # "Feeling grateful for the small things in life",
+    "positive",  # "Having a great day!",
+    "negative"  # "This is so frustrating"
+
 ]
 
 # TODO: Add 5-10 more posts and labels.
