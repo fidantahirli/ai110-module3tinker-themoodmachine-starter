@@ -64,7 +64,10 @@ SAMPLE_POSTS = [
     "Just got a promotion at work! Feeling on top of the world",
     "Feeling grateful for the small things in life",
     "Having a great day!",
-    "This is so frustrating"
+    "This is so frustrating",
+     "that concert was sick",
+    "this song is fire",
+    "I'm fine 🙂"
 ]
 
 # Human labels for each post above.
@@ -87,7 +90,10 @@ TRUE_LABELS = [
     "positive",  # "Just got a promotion at work! Feeling on top of the world",
     "positive",  # "Feeling grateful for the small things in life",
     "positive",  # "Having a great day!",
-    "negative"  # "This is so frustrating"
+    "negative",  # "This is so frustrating"
+    "positive",  # "that concert was sick"
+    "positive",  # "this song is fire"
+    "neutral"   # "I'm fine 🙂"
 
 ]
 
